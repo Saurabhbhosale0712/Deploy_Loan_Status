@@ -4,6 +4,8 @@ numpy==2.2.1
 
 # Preprocessing
 scikit-learn==1.6.0
+xgboost==2.1.3
+
 
 # Data Manipulation and Analysis
 pandas==2.2.3
